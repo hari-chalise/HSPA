@@ -1,0 +1,14 @@
+E:\New Project\Api\bin\Debug\netcoreapp2.2\Api.deps.json
+E:\New Project\Api\bin\Debug\netcoreapp2.2\Api.runtimeconfig.json
+E:\New Project\Api\bin\Debug\netcoreapp2.2\Api.runtimeconfig.dev.json
+E:\New Project\Api\bin\Debug\netcoreapp2.2\Api.dll
+E:\New Project\Api\bin\Debug\netcoreapp2.2\Api.pdb
+E:\New Project\Api\obj\Debug\netcoreapp2.2\Api.csprojAssemblyReference.cache
+E:\New Project\Api\obj\Debug\netcoreapp2.2\Api.csproj.CoreCompileInputs.cache
+E:\New Project\Api\obj\Debug\netcoreapp2.2\Api.RazorAssemblyInfo.cache
+E:\New Project\Api\obj\Debug\netcoreapp2.2\Api.RazorAssemblyInfo.cs
+E:\New Project\Api\obj\Debug\netcoreapp2.2\Api.AssemblyInfoInputs.cache
+E:\New Project\Api\obj\Debug\netcoreapp2.2\Api.AssemblyInfo.cs
+E:\New Project\Api\obj\Debug\netcoreapp2.2\Api.RazorTargetAssemblyInfo.cache
+E:\New Project\Api\obj\Debug\netcoreapp2.2\Api.dll
+E:\New Project\Api\obj\Debug\netcoreapp2.2\Api.pdb
